@@ -18,3 +18,4 @@ GFG DSA solution challange Rust programming language implementation.
 ### Day 14: Implement Atoi ✅
 ### Day 15: Add Binary Strings ✅
 ### Day 16: Anagram ✅
+### Day 17: Non Repeating Character ✅
