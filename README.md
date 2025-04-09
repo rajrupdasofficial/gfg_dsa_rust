@@ -19,3 +19,6 @@ GFG DSA solution challange Rust programming language implementation.
 ### Day 15: Add Binary Strings ✅
 ### Day 16: Anagram ✅
 ### Day 17: Non Repeating Character ✅
+
+### Day 18: KMP Search Algorithm ✅
+
