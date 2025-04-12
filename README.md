@@ -20,3 +20,6 @@ GFG DSA solution challange Rust programming language implementation.
 ### Day 16: Anagram ✅
 ### Day 17: Non Repeating Character ✅
 ### Day 18: KMP Search Algorithm ✅
+### Day 19: Min Chars to Add for Palindrome ✅
+### Day 20: Strings Rotations of Each Other ✅
+### Day 21: Sort 0s, 1s and 2s ✅
