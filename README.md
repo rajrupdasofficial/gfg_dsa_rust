@@ -30,3 +30,4 @@ GFG DSA solution challange Rust programming language implementation.
 ### Day 26: Non-overlapping Intervals ✅
 ### Day 27: Merge Without Extra Space ✅
 ### Day 28: Number of occurrence ✅
+### Day 29: Sorted and Rotated Minimum ✅
