@@ -34,3 +34,4 @@ GFG DSA solution challange Rust programming language implementation.
 ### Day 30: Search in Rotated Sorted Array ✅
 ### Day 31: Peak element ✅
 ### Day 32: K-th element of two Arrays ✅
+### Day 33: Aggressive Cow ✅
